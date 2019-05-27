@@ -1,4 +1,8 @@
-.App {
+.hello-navbar {
+  margin-bottom: 20px;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -30,4 +34,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
