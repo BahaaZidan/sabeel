@@ -16,7 +16,7 @@
     "apollo-fetch": "^0.7.0",
     "apollo-link-context": "^1.0.17",
     "apollo-link-http": "^1.5.14",
-    "apollo-server": "^2.4.8",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.4.8",
     "array-move": "^2.1.0",
     "axios": "^0.18.0",
